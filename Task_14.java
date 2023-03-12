@@ -6,6 +6,8 @@ import java.util.logging.XMLFormatter;
 // Дополнительно. К калькулятору из предыдущего дз добавить логирование.
 // 1 + 3 = 4
 
+package Java_Homework_2;
+
 public class Task_14 {
     public static void main(String[] args) {
         Logger logger = Logger.getLogger(Task_12.class.getName());
