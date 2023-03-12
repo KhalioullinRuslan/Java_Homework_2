@@ -4,6 +4,7 @@ import java.util.Scanner;
 // и определяет является ли строка палиндромом (возвращает boolean значение). 
 // Без встр. функций
 
+package Java_Homework_2;
 
 public class Task_13 {
     public static void main(String[] args) {
