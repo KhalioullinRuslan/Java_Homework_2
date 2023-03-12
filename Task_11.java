@@ -6,6 +6,7 @@ import java.util.Scanner;
 // Реализуйте алгоритм сортировки пузырьком числового массива (введён вами),
 // результат после каждой итерации запишите в лог-файл.
 
+package Java_Homework_2;
 
 public class Task_11 {
     public static void main(String[] args) {
