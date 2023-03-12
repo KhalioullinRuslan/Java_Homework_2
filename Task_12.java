@@ -15,6 +15,7 @@ import java.util.Scanner;
 // Студент Петрова получил 4 по предмету Информатика.
 // Студент Краснов получил 5 по предмету Физика.
 
+package Java_Homework_2;
 
 public class Task_12 {
     public static void main(String[] args) {
